@@ -7,4 +7,4 @@
 *.ptx
 *.cubin
 *.fatbin
-.vscode
+.vscode/*
